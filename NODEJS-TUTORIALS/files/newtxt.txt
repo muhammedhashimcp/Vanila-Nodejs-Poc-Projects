@@ -1,0 +1,2 @@
+I love this nodejs samples
+ this is file appended data
